@@ -1,0 +1,632 @@
+{
+    "68c35c198b8b18c0c707ffa0": {
+        "bigmap": {
+            "Safe": 0.001
+        },
+        "factory4_day": {
+            "Safe": 0.0005,
+            "SafeBank_terra": 0.03
+        },
+        "factory4_night": {
+            "Safe": 0.0005,
+            "SafeBank_terra": 0.03
+        },
+        "laboratory": {
+            "Safe": 0.004
+        },
+        "lighthouse": {
+            "Safe": 0.001
+        },
+        "rezervbase": {
+            "Safe": 0.0015
+        },
+        "sandbox": {
+            "Safe": 0.0008
+        },
+        "sandbox_high": {
+            "Safe": 0.002
+        },
+        "shoreline": {
+            "Safe": 0.0015
+        },
+        "tarkovstreets": {
+            "Safe": 0.002
+        },
+        "woods": {
+            "Safe": 0.0015
+        }
+    },
+    "68c35c198b8b18c0c707ffa1": {
+        "bigmap": {
+            "Safe": 0.01
+        },
+        "factory4_day": {
+            "Safe": 0.008,
+            "SafeBank_terra": 0.075
+        },
+        "factory4_night": {
+            "Safe": 0.008,
+            "SafeBank_terra": 0.075
+        },
+        "laboratory": {
+            "Safe": 0.05
+        },
+        "lighthouse": {
+            "Safe": 0.025
+        },
+        "rezervbase": {
+            "Safe": 0.01
+        },
+        "sandbox": {
+            "Safe": 0.008
+        },
+        "sandbox_high": {
+            "Safe": 0.025
+        },
+        "shoreline": {
+            "Safe": 0.015
+        },
+        "tarkovstreets": {
+            "Safe": 0.02
+        },
+        "woods": {
+            "Safe": 0.035
+        }
+    },
+    "68c35c198b8b18c0c707ffa2": {
+        "bigmap": {
+            "SportBag": 0.00005,
+            "ToolBox": 0.0008,
+            "tools&other": 0.003,
+            "wood_cache": 0.0005,
+            "barrel_cache": 0.0005
+        },
+        "factory4_day": {
+            "SportBag": 0.0001,
+            "ToolBox": 0.0008,
+            "tools&other": 0.003
+        },
+        "factory4_night": {
+            "SportBag": 0.0001,
+            "ToolBox": 0.001,
+            "tools&other": 0.003
+        },
+        "interchange": {
+            "SportBag": 0.00005,
+            "ToolBox": 0.0008,
+            "wood_cache": 0.0005,
+            "barrel_cache": 0.0005,
+            "suitcase_plastic_lootable": 0.006
+        },
+        "laboratory": {
+            "SportBag": 0.001,
+            "ToolBox": 0.008,
+            "suitcase_plastic_lootable": 0.01
+        },
+        "lighthouse": {
+            "SportBag": 0.0001,
+            "ToolBox": 0.0006,
+            "tools&other": 0.003,
+            "wood_cache": 0.001,
+            "barrel_cache": 0.001,
+            "suitcase_plastic_lootable": 0.01
+        },
+        "rezervbase": {
+            "SportBag": 0.00005,
+            "ToolBox": 0.0008,
+            "tools&other": 0.003
+        },
+        "sandbox": {
+            "SportBag": 0.00005,
+            "ToolBox": 0.0008,
+            "tools&other": 0.003,
+            "suitcase_plastic_lootable": 0.006
+        },
+        "sandbox_high": {
+            "SportBag": 0.0005,
+            "ToolBox": 0.001,
+            "tools&other": 0.003,
+            "suitcase_plastic_lootable": 0.01
+        },
+        "shoreline": {
+            "SportBag": 0.0001,
+            "ToolBox": 0.0006,
+            "wood_cache": 0.0003,
+            "barrel_cache": 0.0003,
+            "suitcase_plastic_lootable": 0.01
+        },
+        "tarkovstreets": {
+            "SportBag": 0.0001,
+            "ToolBox": 0.0006,
+            "tools&other": 0.003,
+            "barrel_cache": 0.0003,
+            "suitcase_plastic_lootable": 0.01
+        },
+        "woods": {
+            "SportBag": 0.00005,
+            "ToolBox": 0.0008,
+            "tools&other": 0.003,
+            "wood_cache": 0.0005,
+            "barrel_cache": 0.0005
+        }
+    },
+    "68c35c198b8b18c0c707ffa3": {
+        "bigmap": {
+            "Jacket":0.001,
+            "SportBag": 0.0001,
+            "wood_cache": 0.001,
+            "barrel_cache": 0.001
+        },
+        "factory4_day": {
+            "Jacket":0.0005,
+            "SportBag": 0.00005
+        },
+        "factory4_night": {
+            "Jacket":0.0005,
+            "SportBag": 0.0005
+        },
+        "interchange": {
+            "Jacket":0.001,
+            "SportBag": 0.0001,
+            "wood_cache": 0.001,
+            "barrel_cache": 0.001,
+            "suitcase_plastic_lootable": 0.01
+        },
+        "laboratory": {
+            "Jacket":0.001,
+            "SportBag": 0.0001,
+            "suitcase_plastic_lootable": 0.01
+        },
+        "lighthouse": {
+            "Jacket":0.0005,
+            "SportBag": 0.00005,
+            "wood_cache": 0.0005,
+            "barrel_cache": 0.0005,
+            "suitcase_plastic_lootable": 0.006
+        },
+        "rezervbase": {
+            "Jacket":0.001,
+            "SportBag": 0.0001
+        },
+        "sandbox": {
+            "Jacket":0.0005,
+            "SportBag": 0.00005,
+            "suitcase_plastic_lootable": 0.006
+        },
+        "sandbox_high": {
+            "Jacket":0.0005,
+            "SportBag": 0.00025,
+            "suitcase_plastic_lootable": 0.006
+        },
+        "shoreline": {
+            "Jacket":0.0005,
+            "SportBag": 0.00005,
+            "wood_cache": 0.0005,
+            "barrel_cache": 0.0005,
+            "suitcase_plastic_lootable": 0.006
+        },
+        "tarkovstreets": {
+            "Jacket":0.0005,
+            "SportBag": 0.00005,
+            "barrel_cache": 0.0005,
+            "suitcase_plastic_lootable": 0.006
+        },
+        "woods": {
+            "Jacket":0.001,
+            "SportBag": 0.0001,
+            "wood_cache": 0.001,
+            "barrel_cache": 0.001
+        }
+    },
+    "68c35c198b8b18c0c707ffa4": {
+        "bigmap": {
+            "Jacket": 0.01,
+            "MedBag": 0.008,
+            "MedBox": 0.008,
+            "PMC_dead": 0.005,
+            "barrel_cache": 0.001,
+            "scavDead": 0.01,
+            "wood_cache": 0.001
+        },
+        "factory4_day": {
+            "Jacket": 0.008,
+            "MedBag": 0.005,
+            "PMC_dead": 0.002,
+            "scavDead": 0.006
+        },
+        "factory4_night": {
+            "Jacket": 0.008,
+            "MedBag": 0.005,
+            "PMC_dead": 0.002,
+            "scavDead": 0.006
+        },
+        "interchange": {
+            "Jacket": 0.008,
+            "MedBag": 0.005,
+            "MedBox": 0.005,
+            "barrel_cache": 0.001,
+            "scavDead": 0.006,
+            "wood_cache": 0.001
+        },
+        "laboratory": {
+            "Jacket": 0.008,
+            "MedBag": 0.005,
+            "MedBox": 0.005,
+            "PMC_dead": 0.002
+        },
+        "lighthouse": {
+            "Jacket": 0.01,
+            "MedBag": 0.008,
+            "MedBag_adv": 0.008,
+            "MedBox": 0.008,
+            "barrel_cache": 0.001,
+            "scavDead": 0.01,
+            "wood_cache": 0.001
+        },
+        "rezervbase": {
+            "Jacket": 0.008,
+            "MedBag": 0.005,
+            "MedBox": 0.005,
+            "scavDead": 0.006
+        },
+        "sandbox": {
+            "Jacket": 0.008,
+            "MedBag": 0.005,
+            "MedBox": 0.005,
+            "PMC_dead": 0.002,
+            "scavDead": 0.006
+        },
+        "sandbox_high": {
+            "Jacket": 0.008,
+            "MedBag": 0.005,
+            "MedBox": 0.005,
+            "PMC_dead": 0.002,
+            "scavDead": 0.006
+        },
+        "shoreline": {
+            "Jacket": 0.006,
+            "MedBag": 0.003,
+            "MedBox": 0.003,
+            "barrel_cache": 0.001,
+            "scavDead": 0.006,
+            "wood_cache": 0.001
+        },
+        "tarkovstreets": {
+            "Jacket": 0.01,
+            "MedBag": 0.008,
+            "MedBox": 0.008,
+            "barrel_cache": 0.001,
+            "scavDead": 0.01
+        },
+        "woods": {
+            "Jacket": 0.008,
+            "MedBag": 0.005,
+            "PMC_dead": 0.002,
+            "barrel_cache": 0.001,
+            "scavDead": 0.006,
+            "wood_cache": 0.001
+        }
+    },
+    "68c35c198b8b18c0c707ffa5": {
+        "bigmap": {
+            "barrel_cache": 0.025,
+            "wood_cache": 0.025
+        },
+        "interchange": {
+            "barrel_cache": 0.025,
+            "wood_cache": 0.025
+        },
+        "lighthouse": {
+            "barrel_cache": 0.025,
+            "wood_cache": 0.025
+        },
+        "shoreline": {
+            "barrel_cache": 0.025,
+            "wood_cache": 0.025
+        },
+        "tarkovstreets": {
+            "barrel_cache": 0.025
+        },
+        "woods": {
+            "barrel_cache": 0.025,
+            "wood_cache": 0.025
+        }
+    },
+    "68c35c198b8b18c0c707ffa6": {
+        "bigmap": {
+            "WeaponCrate": 0.005,
+            "terraWBoxLong": 0.005,
+            "terraWBoxLongBig": 0.005,
+            "terraWBoxSquare": 0.005,
+            "terraWBoxSquareBig": 0.005
+        },
+        "interchange": {
+            "WeaponCrate": 0.005,
+            "terraWBoxLong": 0.005,
+            "terraWBoxLongBig": 0.005,
+            "terraWBoxSquare": 0.005,
+            "terraWBoxSquareBig": 0.005
+        },
+        "lighthouse": {
+            "WeaponCrate": 0.005,
+            "terraWBoxLong": 0.005,
+            "terraWBoxLongBig": 0.005,
+            "terraWBoxSquare": 0.005,
+            "terraWBoxSquareBig": 0.005
+        },
+        "shoreline": {
+            "WeaponCrate": 0.004,
+            "terraWBoxLong": 0.004,
+            "terraWBoxLongBig": 0.004,
+            "terraWBoxSquare": 0.004,
+            "terraWBoxSquareBig": 0.004
+        },
+        "tarkovstreets": {
+            "SportBag": 0.0001,
+            "WeaponCrate": 0.008,
+            "terraWBoxLong": 0.008,
+            "terraWBoxLongBig": 0.008,
+            "terraWBoxSquare": 0.008,
+            "terraWBoxSquareBig": 0.008
+        },
+        "woods": {
+            "WeaponCrate": 0.005,
+            "terraWBoxLong": 0.005,
+            "terraWBoxLongBig": 0.005,
+            "terraWBoxSquare": 0.005,
+            "terraWBoxSquareBig": 0.005
+        }
+    },
+    "68c35c198b8b18c0c707ffa7": {
+        "bigmap": {
+            "Food&Stuff": 0.005,
+            "tools&other": 0.005,
+            "meds&other": 0.005
+        },
+        "lighthouse": {
+            "Food&Stuff": 0.005,
+            "tools&other": 0.005
+        },
+        "rezervbase": {
+            "Food&Stuff": 0.008,
+            "tools&other": 0.008,
+            "meds&other": 0.008
+        },
+        "shoreline": {
+            "Food&Stuff": 0.005,
+            "meds&other": 0.005
+        },
+        "woods": {
+            "Food&Stuff": 0.005,
+            "tools&other": 0.005,
+            "meds&other": 0.005
+        }
+    },
+    "68c35c198b8b18c0c707ffa8": {
+        "bigmap": {
+            "WeaponCrate": 0.002,
+            "terraWBoxLong": 0.004,
+            "terraWBoxLongBig": 0.006,
+            "terraWBoxSquare": 0.004,
+            "terraWBoxSquareBig": 0.008
+        },
+        "laboratory": {
+            "terraWBoxLong": 0.004,
+            "terraWBoxLongBig": 0.006,
+            "terraWBoxSquare": 0.004,
+            "terraWBoxSquareBig": 0.008
+        },
+        "lighthouse": {
+            "WeaponCrate": 0.002,
+            "terraWBoxLong": 0.004,
+            "terraWBoxLongBig": 0.006,
+            "terraWBoxSquare": 0.004,
+            "terraWBoxSquareBig": 0.008
+        },
+        "rezervbase": {
+            "WeaponCrate": 0.002,
+            "terraWBoxLong": 0.008,
+            "terraWBoxLongBig": 0.012,
+            "terraWBoxSquare": 0.008,
+            "terraWBoxSquareBig": 0.016
+        },
+        "woods": {
+            "WeaponCrate": 0.002,
+            "terraWBoxLong": 0.004,
+            "terraWBoxLongBig": 0.006,
+            "terraWBoxSquare": 0.004,
+            "terraWBoxSquareBig": 0.008
+        }
+    },
+    "68c35c198b8b18c0c707ffa9": {
+        "sandbox": {
+            "SportBag": 0.0005,
+            "PMC_dead": 0.0005,
+            "dead_civilian": 0.01,
+            "scavDead": 0.0005,
+            "suitcase_plastic_lootable": 0.015
+        },
+        "sandbox_high": {
+            "SportBag": 0.002,
+            "PMC_dead": 0.001,
+            "dead_civilian": 0.02,
+            "scavDead": 0.001,
+            "suitcase_plastic_lootable": 0.025
+        }
+    },
+    "68c35c198b8b18c0c707ffaa": {},
+    "68c35c198b8b18c0c707ffab": {},
+    "68c35c198b8b18c0c707ffac": {
+        "bigmap": {
+            "Safe": 0.0025
+        },
+        "factory4_day": {
+            "Safe": 0.002,
+            "SafeBank_terra": 0.05
+        },
+        "factory4_night": {
+            "Safe": 0.002,
+            "SafeBank_terra": 0.05
+        },
+        "laboratory": {
+            "Safe": 0.0125
+        },
+        "lighthouse": {
+            "Safe": 0.00625
+        },
+        "rezervbase": {
+            "Safe": 0.0025
+        },
+        "sandbox": {
+            "Safe": 0.002
+        },
+        "sandbox_high": {
+            "Safe": 0.00625
+        },
+        "shoreline": {
+            "Safe": 0.005
+        },
+        "tarkovstreets": {
+            "Safe": 0.005
+        },
+        "woods": {
+            "Safe": 0.00875
+        }
+    },
+    "68c35c198b8b18c0c707ffad": {
+        "bigmap": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001,
+            "wood_cache": 0.001,
+            "barrel_cache": 0.001
+        },
+        "factory4_day": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001
+        },
+        "factory4_night": {
+            "Drawer": 0.0008,
+            "SportBag": 0.001
+        },
+        "interchange": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001,
+            "wood_cache": 0.001,
+            "barrel_cache": 0.001,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "laboratory": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "lighthouse": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001,
+            "wood_cache": 0.001,
+            "barrel_cache": 0.001,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "rezervbase": {
+            "Drawer": 0.0005,
+            "SportBag": 0.00005
+        },
+        "sandbox": {
+            "Drawer": 0.0005,
+            "SportBag": 0.00005,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "sandbox_high": {
+            "Drawer": 0.0005,
+            "SportBag": 0.00025,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "shoreline": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001,
+            "wood_cache": 0.001,
+            "barrel_cache": 0.001,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "tarkovstreets": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001,
+            "barrel_cache": 0.001,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "woods": {
+            "Drawer": 0.0005,
+            "SportBag": 0.00005,
+            "wood_cache": 0.0005,
+            "barrel_cache": 0.0005
+        }
+    },
+    "68c35c198b8b18c0c707ffae": {
+        "bigmap": {
+            "Drawer": 0.0005,
+            "SportBag": 0.00005,
+            "wood_cache": 0.0005,
+            "barrel_cache": 0.0005
+        },
+        "factory4_day": {
+            "Drawer": 0.0005,
+            "SportBag": 0.00005
+        },
+        "factory4_night": {
+            "Drawer": 0.0005,
+            "SportBag": 0.0005
+        },
+        "interchange": {
+            "Drawer": 0.0005,
+            "SportBag": 0.00005,
+            "wood_cache": 0.0005,
+            "barrel_cache": 0.0005,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "laboratory": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "lighthouse": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001,
+            "wood_cache": 0.001,
+            "barrel_cache": 0.001,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "rezervbase": {
+            "Drawer": 0.0005,
+            "SportBag": 0.00005
+        },
+        "sandbox": {
+            "Drawer": 0.0005,
+            "SportBag": 0.00005,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "sandbox_high": {
+            "Drawer": 0.0008,
+            "SportBag": 0.00025,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "shoreline": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001,
+            "wood_cache": 0.001,
+            "barrel_cache": 0.001,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "tarkovstreets": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001,
+            "barrel_cache": 0.001,
+            "suitcase_plastic_lootable": 0.005
+        },
+        "woods": {
+            "Drawer": 0.0008,
+            "SportBag": 0.0001,
+            "wood_cache": 0.0005,
+            "barrel_cache": 0.0005
+        }
+    }
+}

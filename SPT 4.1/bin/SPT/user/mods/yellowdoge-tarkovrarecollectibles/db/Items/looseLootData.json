@@ -1,0 +1,1626 @@
+{
+    "bigmap": [
+        {
+            "Id": "tarkov_collectibles_customs_military_spawn_usec_0",
+            "Position": { "x": 564.67, "y": 1.69, "z": -51.42 },
+            "probability": 0.04,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 2
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_customs_military_spawn_usec_1",
+            "Position": { "x": 562.65, "y": 2.42, "z": -56.39 },
+            "probability": 0.04,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 2
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_customs_military_spawn_fortress",
+            "Position": { "x": 187.87, "y": 2.78, "z": -100.15 },
+            "probability": 0.05,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 2
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_customs_monalisa_spawn",
+            "Position": { "x": -202.18, "y": 7.27, "z": -101.7 },
+            "probability": 0.04,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa5",
+                    "_id": "70715151005",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_customs_valuable_spawn_0",
+            "Position": { "x": -204.42, "y": 7.76, "z": -109.53 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 3
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa6",
+                    "_id": "70715151006",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 6
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_customs_valuable_spawn_1",
+            "Position": { "x": 412.88, "y": 2.16, "z": 41.41 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 3
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa6",
+                    "_id": "70715151006",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 6
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_customs_gold_deer_spawn",
+            "Position": { "x": 184.16, "y": 6.35, "z": 183.34 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        }
+    ],
+    "factory4_day": [],
+    "factory4_night": [],
+    "woods": [
+        {
+            "Id": "tarkov_collectibles_woods_military_spawn_0",
+            "Position": { "x": -189.58, "y": -0.4, "z": 233.24 },
+            "probability": 0.05,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_woods_military_spawn_1",
+            "Position": { "x": 310.05, "y": 23.25, "z": -462.65 },
+            "probability": 0.05,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_woods_valuable_spawn_0",
+            "Position": { "x": 142.0, "y": 25.27, "z": -732.96 },
+            "probability": 0.07,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa6",
+                    "_id": "70715151006",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_woods_valuable_spawn_1",
+            "Position": { "x": -158.08, "y": 46.08, "z": -233.34 },
+            "probability": 0.07,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa6",
+                    "_id": "70715151006",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_woods_valuable_spawn_2",
+            "Position": { "x": 414.92, "y": -12.55, "z": 238.1 },
+            "probability": 0.07,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa6",
+                    "_id": "70715151006",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_woods_gold_deer_spawn_0",
+            "Position": { "x": -88.76, "y": 12.48, "z": -717.39 },
+            "probability": 0.01,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_woods_gold_deer_spawn_1",
+            "Position": { "x": -267.06, "y": 7.61, "z": -411.51 },
+            "probability": 0.01,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_woods_gold_deer_spawn_2",
+            "Position": { "x": 195.6, "y": 0.45, "z": -7.05 },
+            "probability": 0.01,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        }
+    ],
+    "interchange": [
+        {
+            "Id": "tarkov_collectibles_interchange_drone_spawn_0",
+            "Position": { "x": -17.0, "y": 28.42, "z": -302.5 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_interchange_drone_spawn_1",
+            "Position": { "x": -12.2, "y": 27.76, "z": -69.05 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_interchange_drone_spawn_2",
+            "Position": { "x": 23.4, "y": 27.38, "z": 23.15 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_interchange_drone_spawn_3",
+            "Position": { "x": 69.1, "y": 28.65, "z": 48.53 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_interchange_drone_spawn_4",
+            "Position": { "x": 90.34, "y": 37.5, "z": 66.58 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_interchange_drone_spawn_5",
+            "Position": { "x": 44.69, "y": 27.38, "z": 144.14 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                }
+            ]
+        }
+    ],
+    "rezervbase": [
+        {
+            "Id": "tarkov_collectibles_reserve_missile_spawn_0",
+            "Position": { "x": -128.09, "y": -3.41, "z": 28.41 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_reserve_missile_spawn_1",
+            "Position": { "x": 99.52, "y": -6.78, "z": 53.44 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_reserve_missile_spawn_2",
+            "Position": { "x": 99.54, "y": -6.78, "z": 62.39 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_reserve_missile_spawn_3",
+            "Position": { "x": 176.76, "y": -1.2, "z": -165.95 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_reserve_missile_spawn_4",
+            "Position": { "x": -243.71, "y": -4.92, "z": -3.12 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_reserve_missile_spawn_5",
+            "Position": { "x": 223.74, "y": -5.1, "z": -56.0 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_reserve_gold_deer_spawn_0",
+            "Position": { "x": 191.8, "y": -5.86, "z": -224.98 },
+            "probability": 0.05,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_reserve_gold_deer_spawn_1",
+            "Position": { "x": -152.64, "y": -8.22, "z": 73.24 },
+            "probability": 0.05,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_reserve_gold_deer_spawn_2",
+            "Position": { "x": -122.33, "y": -14.4, "z": 27.9 },
+            "probability": 0.05,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        }
+    ],
+    "shoreline": [
+        {
+            "Id": "tarkov_collectibles_shoreline_valuable2_spawn_0",
+            "Position": { "x": -271.59, "y": 0.25, "z": -141.8 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 3
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffac",
+                    "_id": "70715151012",
+                    "relativeProbability": 1
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_shoreline_valuable2_spawn_1",
+            "Position": { "x": -180.87, "y": -54.42, "z": 374.02 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 3
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffac",
+                    "_id": "70715151012",
+                    "relativeProbability": 1
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_shoreline_valuable1_spawn_0",
+            "Position": { "x": 133.91, "y": -44.42, "z": 130.12 },
+            "probability": 0.06,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa6",
+                    "_id": "70715151006",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 6
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_shoreline_valuable1_spawn_1",
+            "Position": { "x": -512.2, "y": -21.39, "z": 233.96 },
+            "probability": 0.06,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa6",
+                    "_id": "70715151006",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 6
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_shoreline_valuable1_spawn_2",
+            "Position": { "x": -521.0, "y": -14.86, "z": -343.19 },
+            "probability": 0.06,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa6",
+                    "_id": "70715151006",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 6
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_shoreline_gold_deer_spawn_0",
+            "Position": { "x": -336.96, "y": 2.25, "z": -88.47 },
+            "probability": 0.01,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_shoreline_gold_deer_spawn_1",
+            "Position": { "x": 243.92, "y": -62.54, "z": 437.03 },
+            "probability": 0.01,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        }
+    ],
+    "lighthouse": [
+        {
+            "Id": "tarkov_collectibles_lighthouse_weed_spawn_0",
+            "Position": { "x": -123.44, "y": 11.57, "z": -841.1 },
+            "probability": 0.2,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa4",
+                    "_id": "70715151004",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_lighthouse_weed_spawn_1",
+            "Position": { "x": -113.6, "y": 11.55, "z": -844.07 },
+            "probability": 0.2,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa4",
+                    "_id": "70715151004",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_lighthouse_gold_deer_spawn",
+            "Position": { "x": 329.44, "y": 6.02, "z": 484.16 },
+            "probability": 0.03,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_lighthouse_champagne_spawn",
+            "Position": { "x": -84.05, "y": 18.95, "z": -81.44 },
+            "probability": 0.04,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_lighthouse_monalisa_spawn",
+            "Position": { "x": -86.24, "y": 22.75, "z": -74.62 },
+            "probability": 0.03,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa5",
+                    "_id": "70715151005",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_lighthouse_valuable_spawn_0",
+            "Position": { "x": -123.85, "y": 43.48, "z": 82.34 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_lighthouse_valuable_spawn_1",
+            "Position": { "x": -117.63, "y": 21.65, "z": -21.07 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_lighthouse_military_spawn_0",
+            "Position": { "x": -122.15, "y": 37.56, "z": 95.3 },
+            "probability": 0.05,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_lighthouse_military_spawn_1",
+            "Position": { "x": -22.5, "y": 1.9, "z": -529.07 },
+            "probability": 0.05,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_lighthouse_military_spawn_2",
+            "Position": { "x": -61.52, "y": 2.9, "z": -689.6 },
+            "probability": 0.05,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa8",
+                    "_id": "70715151008",
+                    "relativeProbability": 4
+                }
+            ]
+        }
+    ],
+    "laboratory": [
+        {
+            "Id": "tarkov_collectibles_labs_drone_spawn_0",
+            "Position": { "x": -169.55, "y": 5.28, "z": -281.46 },
+            "probability": 0.03,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_drone_spawn_1",
+            "Position": { "x": -164.36, "y": 1.29, "z": -322.45 },
+            "probability": 0.03,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_drone_spawn_2",
+            "Position": { "x": -250.32, "y": 4.25, "z": -326.1 },
+            "probability": 0.03,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_drone_spawn_3",
+            "Position": { "x": -268.7, "y": 4.25, "z": -319.9 },
+            "probability": 0.03,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa7",
+                    "_id": "70715151007",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_second_floor_0",
+            "Position": { "x": -123.65, "y": 4.25, "z": -281.0 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_second_floor_1",
+            "Position": { "x": -161.28, "y": 4.25, "z": -346.4 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_second_floor_2",
+            "Position": { "x": -214.8, "y": 4.25, "z": -381.44 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_new_zone",
+            "Position": { "x": -113.03, "y": 0.25, "z": -433.76 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_first_floor",
+            "Position": { "x": -186.75, "y": 0.25, "z": -329.75 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_under_0",
+            "Position": { "x": -124.88, "y": -3.9, "z": -311.91 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_under_1",
+            "Position": { "x": -136.55, "y": -7.02, "z": -363.67 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_under_2",
+            "Position": { "x": -188.92, "y": -3.9, "z": -327.54 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_under_3",
+            "Position": { "x": -240.8, "y": -3.9, "z": -298.92 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_under_4",
+            "Position": { "x": -262.15, "y": -3.9, "z": -339.35 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_under_5",
+            "Position": { "x": -251.3, "y": -2.65, "z": -371.12 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_power_cell_under_6",
+            "Position": { "x": -228.7, "y": -3.9, "z": -391.81 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffaa",
+                    "_id": "70715151010",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_valuable_0",
+            "Position": { "x": -257.66, "y": 4.73, "z": -371.03 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa0",
+                    "_id": "70715151000",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 3
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffac",
+                    "_id": "70715151012",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 8
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 8
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_valuable_1",
+            "Position": { "x": -161.06, "y": 4.76, "z": -338.91 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa0",
+                    "_id": "70715151000",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 3
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffac",
+                    "_id": "70715151012",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 8
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 8
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_valuable_2",
+            "Position": { "x": -147.36, "y": 0.75, "z": -400.8 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa0",
+                    "_id": "70715151000",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 3
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffac",
+                    "_id": "70715151012",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 8
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 8
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_labs_valuable_3",
+            "Position": { "x": -219.58, "y": 1.45, "z": -310.7 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa0",
+                    "_id": "70715151000",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 3
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffac",
+                    "_id": "70715151012",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 8
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 8
+                }
+            ]
+        }
+    ],
+    "tarkovstreets": [
+        {
+            "Id": "tarkov_collectibles_streets_weed_spawn_0",
+            "Position": { "x": 267.24, "y": 7.32, "z": 396.68 },
+            "probability": 0.2,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa4",
+                    "_id": "70715151004",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_streets_weed_spawn_1",
+            "Position": { "x": 268.4, "y": 7.16, "z": 398.21 },
+            "probability": 0.2,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa4",
+                    "_id": "70715151004",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_streets_monalisa_spawn_0",
+            "Position": { "x": -206.57, "y": 2.53, "z": 240.37 },
+            "probability": 0.04,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa5",
+                    "_id": "70715151005",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_streets_monalisa_spawn_1",
+            "Position": { "x": -25.58 , "y": 9.75 , "z": -55.57 },
+            "probability": 0.04,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa5",
+                    "_id": "70715151005",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_streets_valuable_spawn_0",
+            "Position": { "x": 125.48, "y": 7.56, "z": 292.79 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffac",
+                    "_id": "70715151012",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_streets_valuable_spawn_1",
+            "Position": { "x": -63.32, "y": 7.82, "z": 454.26 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffac",
+                    "_id": "70715151012",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_streets_valuable_spawn_2",
+            "Position": { "x": -205.74, "y": 3.92, "z": 306.86 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffac",
+                    "_id": "70715151012",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_streets_valuable_spawn_3",
+            "Position": { "x": -104.23, "y": 8.83, "z": 127.1 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffac",
+                    "_id": "70715151012",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_streets_valuable_spawn_4",
+            "Position": { "x": 43.82, "y": 1.16, "z": -57.43 },
+            "probability": 0.08,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa1",
+                    "_id": "70715151001",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa2",
+                    "_id": "70715151002",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa3",
+                    "_id": "70715151003",
+                    "relativeProbability": 4
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 2
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffac",
+                    "_id": "70715151012",
+                    "relativeProbability": 1
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffad",
+                    "_id": "70715151013",
+                    "relativeProbability": 6
+                },
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffae",
+                    "_id": "70715151014",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_streets_gold_deer_spawn_0",
+            "Position": { "x": -203.21, "y": 7.18, "z": 248.97 },
+            "probability": 0.01,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_streets_gold_deer_spawn_1",
+            "Position": { "x": 188.8, "y": 0.25, "z": 225.89 },
+            "probability": 0.05,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_streets_gold_deer_spawn_2",
+            "Position": { "x": -130.95, "y": 9.1, "z": 270.0 },
+            "probability": 0.05,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffab",
+                    "_id": "70715151011",
+                    "relativeProbability": 4
+                }
+            ]
+        }
+    ],
+    "sandbox": [
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_capital_insight",
+            "Position": { "x": 123.34, "y": 29.097, "z": 279.47 },
+            "probability": 0.06,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_bar",
+            "Position": { "x": 115.33, "y": 25.541, "z": 150.31 },
+            "probability": 0.06,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_terragroup",
+            "Position": { "x": -15.53, "y": 30.942, "z": 66.69 },
+            "probability": 0.06,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_winery_1",
+            "Position": { "x": 125.23, "y": 23.88, "z": 29.25 },
+            "probability": 0.06,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_winery_2",
+            "Position": { "x": 130.28, "y": 24.67, "z": 22.26 },
+            "probability": 0.06,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_winery_3",
+            "Position": { "x": 111.79, "y": 24.36, "z": 29.39 },
+            "probability": 0.06,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        }
+    ],
+    "sandbox_high": [
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_capital_insight",
+            "Position": { "x": 123.34, "y": 29.097, "z": 279.47 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_bar",
+            "Position": { "x": 115.33, "y": 25.541, "z": 150.31 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_terragroup",
+            "Position": { "x": -15.53, "y": 30.942, "z": 66.69 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_winery_1",
+            "Position": { "x": 125.23, "y": 23.88, "z": 29.25 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_winery_2",
+            "Position": { "x": 130.28, "y": 24.67, "z": 22.26 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "Id": "tarkov_collectibles_groundzero_champagne_winery_3",
+            "Position": { "x": 111.79, "y": 24.36, "z": 29.39 },
+            "probability": 0.1,
+            "Items": [
+                {
+                    "_tpl": "68c35c198b8b18c0c707ffa9",
+                    "_id": "70715151009",
+                    "relativeProbability": 4
+                }
+            ]
+        }
+    ]
+}

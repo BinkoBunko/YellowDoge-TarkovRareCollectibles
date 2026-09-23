@@ -1,0 +1,127 @@
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\config\config.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\hallofFameData.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\itemData.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\itemIdLookup.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\looseLootData.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\staticLootData.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\staticLootTemplate.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\traderData.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.staticwebassets.endpoints.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_champagne.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_diamond.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_drone.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_flintlock.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_bar.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_clock.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_deer_skull.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_lion.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_statue.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gramophone.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_missile.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_monalisa.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_power_cell.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_weed.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_wood_dragon.bundle
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.deps.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.dll
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\bin\SPT\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.pdb
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\TarkovRareCollectibles.csproj.AssemblyReference.cache
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\rpswa.dswa.cache.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\TarkovRareCollectibles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\TarkovRareCollectibles.AssemblyInfoInputs.cache
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\TarkovRareCollectibles.AssemblyInfo.cs
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\TarkovRareCollectibles.csproj.CoreCompileInputs.cache
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\rjimswa.dswa.cache.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\rjsmrazor.dswa.cache.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\rjsmcshtml.dswa.cache.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\scopedcss\bundle\TarkovRareCollectibles.styles.css
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\staticwebassets.build.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\staticwebassets.build.json.cache
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\staticwebassets.development.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\staticwebassets.build.endpoints.json
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\swae.build.ex.cache
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\staticwebassets.upToDateCheck.txt
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\TarkovRareCollectibles.dll
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\refint\TarkovRareCollectibles.dll
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\TarkovRareCollectibles.pdb
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\ref\TarkovRareCollectibles.dll
+E:\Games\SPT-4.1-TESTING\Development\Rare Collectibles\obj\Debug\TarkovRa.B78EC7B5.Up2Date
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\config\config.json
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\hallofFameData.json
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\itemData.json
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\itemIdLookup.json
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\looseLootData.json
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\staticLootData.json
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\staticLootTemplate.json
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\traderData.json
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.staticwebassets.endpoints.json
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles.json
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_champagne.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_diamond.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_drone.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_flintlock.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_bar.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_clock.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_deer_skull.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_lion.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_statue.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gramophone.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_missile.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_monalisa.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_power_cell.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_weed.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_wood_dragon.bundle
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.deps.json
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.dll
+E:\Games\SPT-4.1-TESTING\Development\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.pdb
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\config\config.json
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\hallofFameData.json
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\itemIdLookup.json
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\looseLootData.json
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\staticLootData.json
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\staticLootTemplate.json
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\traderData.json
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.staticwebassets.endpoints.json
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\db\Items\itemData.json
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles.json
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_champagne.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_diamond.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_drone.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_flintlock.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_bar.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_clock.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_deer_skull.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_lion.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gold_statue.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_gramophone.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_missile.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_monalisa.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_power_cell.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_weed.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\bundles\TarkovCollectibles\tarkov_collectibles_wood_dragon.bundle
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.deps.json
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.dll
+E:\Games\SPT-4.1-TESTING\SPT_Runtime\user\mods\yellowdoge-tarkovrarecollectibles\TarkovRareCollectibles.pdb
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\TarkovRareCollectibles.csproj.AssemblyReference.cache
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\rpswa.dswa.cache.json
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\TarkovRareCollectibles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\TarkovRareCollectibles.AssemblyInfoInputs.cache
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\TarkovRareCollectibles.AssemblyInfo.cs
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\TarkovRareCollectibles.csproj.CoreCompileInputs.cache
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\TarkovRareCollectibles.sourcelink.json
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\rjimswa.dswa.cache.json
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\rjsmrazor.dswa.cache.json
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\rjsmcshtml.dswa.cache.json
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\scopedcss\bundle\TarkovRareCollectibles.styles.css
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\staticwebassets.build.json
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\staticwebassets.build.json.cache
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\staticwebassets.development.json
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\staticwebassets.build.endpoints.json
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\swae.build.ex.cache
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\staticwebassets.upToDateCheck.txt
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\TarkovRareCollectibles.dll
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\refint\TarkovRareCollectibles.dll
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\TarkovRareCollectibles.pdb
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\ref\TarkovRareCollectibles.dll
+E:\Games\SPT-4.1-TESTING\Development\YellowDoge-TarkovRareCollectibles\SPT 4.1\obj\Debug\TarkovRa.B78EC7B5.Up2Date

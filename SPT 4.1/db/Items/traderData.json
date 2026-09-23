@@ -1,0 +1,152 @@
+{
+    "68c35c198b8b18c0c707ffa0": {
+        "Prapor": false,
+        "Therapist": false,
+        "Skier": false,
+        "Peacekeeper": false,
+        "Mechanic": false,
+        "Ragman": false,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffa1": {
+        "Prapor": false,
+        "Therapist": false,
+        "Skier": true,
+        "Peacekeeper": true,
+        "Mechanic": false,
+        "Ragman": false,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffa2": {
+        "Prapor": true,
+        "Therapist": false,
+        "Skier": true,
+        "Peacekeeper": false,
+        "Mechanic": false,
+        "Ragman": false,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffa3": {
+        "Prapor": false,
+        "Therapist": false,
+        "Skier": true,
+        "Peacekeeper": false,
+        "Mechanic": false,
+        "Ragman": true,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffa4": {
+        "Prapor": false,
+        "Therapist": true,
+        "Skier": true,
+        "Peacekeeper": false,
+        "Mechanic": false,
+        "Ragman": false,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffa5": {
+        "Prapor": false,
+        "Therapist": false,
+        "Skier": false,
+        "Peacekeeper": false,
+        "Mechanic": false,
+        "Ragman": true,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffa6": {
+        "Prapor": false,
+        "Therapist": false,
+        "Skier": false,
+        "Peacekeeper": false,
+        "Mechanic": false,
+        "Ragman": false,
+        "Jaeger": true,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffa7": {
+        "Prapor": false,
+        "Therapist": false,
+        "Skier": false,
+        "Peacekeeper": true,
+        "Mechanic": true,
+        "Ragman": false,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffa8": {
+        "Prapor": true,
+        "Therapist": false,
+        "Skier": false,
+        "Peacekeeper": true,
+        "Mechanic": false,
+        "Ragman": false,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffa9": {
+        "Prapor": true,
+        "Therapist": false,
+        "Skier": false,
+        "Peacekeeper": false,
+        "Mechanic": false,
+        "Ragman": false,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffaa": {
+        "Prapor": false,
+        "Therapist": false,
+        "Skier": false,
+        "Peacekeeper": false,
+        "Mechanic": true,
+        "Ragman": false,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffab": {
+        "Prapor": false,
+        "Therapist": false,
+        "Skier": false,
+        "Peacekeeper": false,
+        "Mechanic": false,
+        "Ragman": false,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffac": {
+        "Prapor": false,
+        "Therapist": false,
+        "Skier": true,
+        "Peacekeeper": false,
+        "Mechanic": false,
+        "Ragman": false,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffad": {
+        "Prapor": false,
+        "Therapist": false,
+        "Skier": false,
+        "Peacekeeper": false,
+        "Mechanic": false,
+        "Ragman": true,
+        "Jaeger": false,
+        "Ref": false
+    },
+    "68c35c198b8b18c0c707ffae": {
+        "Prapor": false,
+        "Therapist": false,
+        "Skier": false,
+        "Peacekeeper": false,
+        "Mechanic": false,
+        "Ragman": false,
+        "Jaeger": true,
+        "Ref": false
+    }
+}

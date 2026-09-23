@@ -1,0 +1,617 @@
+{
+    "68c35c198b8b18c0c707ffa0": {
+        "newId": "68c35c198b8b18c0c707ffa0",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "5b47574386f77428ca22b2f1",
+        "handbookPriceRoubles": 16000000,
+        "fleaPriceRoubles": 16000000,
+        "locales": {
+            "en": {
+                "name": "20-Carat Diamond",
+                "shortName": "Diamond",
+                "description": "A rare and flawless 20-carat diamond, highly valuable and sought after by collectors and traders alike."
+            },
+            "fr": {
+                "name": "Diamant de 20 carats",
+                "shortName": "Diamant",
+                "description": "Un diamant rare et parfait de 20 carats, extrêmement précieux et recherché par les collectionneurs et commerçants."
+            },
+            "ch": {
+                "name": "20克拉钻石",
+                "shortName": "钻石",
+                "description": "一颗罕见且完美无瑕的20克拉钻石，极具价值，备受收藏家和商人追捧。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_diamond.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.004,
+            "Width": 1,
+            "Height": 1,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "jewelry",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffa1": {
+        "newId": "68c35c198b8b18c0c707ffa1",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "5b47574386f77428ca22b2f1",
+        "handbookPriceRoubles": 1200000,
+        "fleaPriceRoubles": 1200000,
+        "locales": {
+            "en": {
+                "name": "999.9 Gold Bar",
+                "shortName": "GoldBar",
+                "description": "A standard 1kg pure gold bar with a purity of 999.9."
+            },
+            "fr": {
+                "name": "Lingot d'or 999.9",
+                "shortName": "LingotOr",
+                "description": "Un lingot standard de 1 kg d’or pur avec une pureté de 999,9."
+            },
+            "ch": {
+                "name": "999.9 金条",
+                "shortName": "金条",
+                "description": "一根标准的1千克纯金条，纯度为999.9。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_gold_bar.bundle",
+                "rcid": ""
+            },
+            "Weight": 1,
+            "Width": 1,
+            "Height": 2,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "jewelry",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffa2": {
+        "newId": "68c35c198b8b18c0c707ffa2",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "5b47574386f77428ca22b2f1",
+        "handbookPriceRoubles": 2100000,
+        "fleaPriceRoubles": 2100000,
+        "locales": {
+            "en": {
+                "name": "Gold Clock",
+                "shortName": "GoldClock",
+                "description": "A luxury decorative table clock with a golden stand and a solid gold figure atop."
+            },
+            "fr": {
+                "name": "Horloge en or",
+                "shortName": "HorlogeOr",
+                "description": "Une horloge de table décorative de luxe avec un support doré et une figurine en or massif au sommet."
+            },
+            "ch": {
+                "name": "黄金时钟",
+                "shortName": "金钟",
+                "description": "一款奢华的装饰台钟，带有镀金底座和纯金雕像。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_gold_clock.bundle",
+                "rcid": ""
+            },
+            "Weight": 4.5,
+            "Width": 2,
+            "Height": 2,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "jewelry",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffa3": {
+        "newId": "68c35c198b8b18c0c707ffa3",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "5b47574386f77428ca22b2f1",
+        "handbookPriceRoubles": 1500000,
+        "fleaPriceRoubles": 1500000,
+        "locales": {
+            "en": {
+                "name": "Gold Figurine",
+                "shortName": "GoldFigurine",
+                "description": "A luxury decorative figurine made completely out of gold."
+            },
+            "fr": {
+                "name": "Figurine en or",
+                "shortName": "FigurineOr",
+                "description": "Une figurine décorative de luxe entièrement fabriquée en or."
+            },
+            "ch": {
+                "name": "黄金雕像",
+                "shortName": "金像",
+                "description": "一座完全由黄金制成的奢华装饰雕像。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_gold_statue.bundle",
+                "rcid": ""
+            },
+            "Weight": 2.5,
+            "Width": 1,
+            "Height": 2,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "jewelry",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffa4": {
+        "newId": "68c35c198b8b18c0c707ffa4",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864c8c245977548867e7f1",
+        "handbookParentId": "5b47574386f77428ca22b2f3",
+        "handbookPriceRoubles": 605000,
+        "fleaPriceRoubles": 605000,
+        "locales": {
+            "en": {
+                "name": "Pack of Weed",
+                "shortName": "Weed",
+                "description": "A dense, compact pack of homegrown cannabis, used either for consumption or to craft makeshift painkillers."
+            },
+            "fr": {
+                "name": "Paquet d'herbe",
+                "shortName": "Herbe",
+                "description": "Un paquet dense et compact de cannabis cultivé maison, utilisé soit pour le consommer soit pour fabriquer des analgésiques improvisés."
+            },
+            "ch": {
+                "name": "大麻包",
+                "shortName": "大麻",
+                "description": "一包紧实的自种大麻，可用于吸食或制作简易止痛药。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_weed.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.8,
+            "Width": 2,
+            "Height": 2,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "gear_generic",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffa5": {
+        "newId": "68c35c198b8b18c0c707ffa5",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "5b47574386f77428ca22b2f1",
+        "handbookPriceRoubles": 4500000,
+        "fleaPriceRoubles": 4500000,
+        "locales": {
+            "en": {
+                "name": "Mona Lisa Replica",
+                "shortName": "MonaLisa",
+                "description": "A high-quality framed replica of the Mona Lisa, a heavy luxury piece often fetching tens of thousands at auction."
+            },
+            "fr": {
+                "name": "Réplique de la Joconde",
+                "shortName": "MonaLisa",
+                "description": "Une réplique encadrée de haute qualité de la Joconde, une pièce de luxe souvent vendue des dizaines de milliers aux enchères."
+            },
+            "ch": {
+                "name": "蒙娜丽莎复制品",
+                "shortName": "蒙娜丽莎",
+                "description": "一幅高质量的蒙娜丽莎装裱复制品，奢华厚重，常在拍卖会上拍出数万的高价。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_monalisa.bundle",
+                "rcid": ""
+            },
+            "Weight": 6,
+            "Width": 3,
+            "Height": 4,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "container_plastic",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffa6": {
+        "newId": "68c35c198b8b18c0c707ffa6",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "5b47574386f77428ca22b2f1",
+        "handbookPriceRoubles": 2800000,
+        "fleaPriceRoubles": 2800000,
+        "locales": {
+            "en": {
+                "name": "Antique Flintlock Replica",
+                "shortName": "Flintlock",
+                "description": "A replica of a 18th century flintlock rifle, ornately finished, prized for its craftsmanship and provenance."
+            },
+            "fr": {
+                "name": "Réplique de pistolet à silex antique",
+                "shortName": "Flintlock",
+                "description": "Une réplique d’un fusil à silex du XVIIIe siècle, richement décorée, prisée pour son artisanat et sa provenance."
+            },
+            "ch": {
+                "name": "古董燧发枪复制品",
+                "shortName": "燧发枪",
+                "description": "一把18世纪燧发步枪的复制品，装饰华丽，以工艺和出处而备受珍视。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_flintlock.bundle",
+                "rcid": ""
+            },
+            "Weight": 3,
+            "Width": 4,
+            "Height": 1,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "weap_rifle",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffa7": {
+        "newId": "68c35c198b8b18c0c707ffa7",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864a66245977548f04a81f",
+        "handbookParentId": "5b47574386f77428ca22b2ef",
+        "handbookPriceRoubles": 2750000,
+        "fleaPriceRoubles": 2750000,
+        "locales": {
+            "en": {
+                "name": "Military Recon Drone",
+                "shortName": "MilitaryDrone",
+                "description": "A portable, military-grade reconnaissance drone equipped for surveillance and rapid deployment in the field."
+            },
+            "fr": {
+                "name": "Drone de reconnaissance militaire",
+                "shortName": "DroneMilitaire",
+                "description": "Un drone de reconnaissance portable de qualité militaire, équipé pour la surveillance et le déploiement rapide sur le terrain."
+            },
+            "ch": {
+                "name": "军用侦察无人机",
+                "shortName": "军用无人机",
+                "description": "一款便携式军用级侦察无人机，配备用于战场监视与快速部署的功能。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_drone.bundle",
+                "rcid": ""
+            },
+            "Weight": 4.5,
+            "Width": 3,
+            "Height": 3,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "item_plastic_generic",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffa8": {
+        "newId": "68c35c198b8b18c0c707ffa8",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "590c745b86f7743cc433c5f2",
+        "handbookParentId": "5b47574386f77428ca22b2f4",
+        "handbookPriceRoubles": 3200000,
+        "fleaPriceRoubles": 3200000,
+        "locales": {
+            "en": {
+                "name": "Military Missile",
+                "shortName": "MilitaryMissile",
+                "description": "A military tacticle missile, designed for armored vehicles and tanks."
+            },
+            "fr": {
+                "name": "Missile militaire",
+                "shortName": "Missile",
+                "description": "Un missile tactique militaire, conçu pour les véhicules blindés et les chars."
+            },
+            "ch": {
+                "name": "军用导弹",
+                "shortName": "导弹",
+                "description": "一枚专为装甲车和坦克设计的军用战术导弹。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_missile.bundle",
+                "rcid": ""
+            },
+            "Weight": 12,
+            "Width": 4,
+            "Height": 2,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "smallmetal",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffa9": {
+        "newId": "68c35c198b8b18c0c707ffa9",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "5b47574386f77428ca22b2f1",
+        "handbookPriceRoubles": 750000,
+        "fleaPriceRoubles": 750000,
+        "locales": {
+            "en": {
+                "name": "Premium Champagne",
+                "shortName": "Champagne",
+                "description": "A bottle of sealed premium HOXXOH Gold Champagne."
+            },
+            "fr": {
+                "name": "Champagne premium",
+                "shortName": "Champagne",
+                "description": "Une bouteille de champagne HOXXOH Gold premium scellée."
+            },
+            "ch": {
+                "name": "高档香槟",
+                "shortName": "香槟",
+                "description": "一瓶密封的高档HOXXOH金装香槟。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_champagne.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.5,
+            "Width": 1,
+            "Height": 2,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "food_bottle",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffaa": {
+        "newId": "68c35c198b8b18c0c707ffaa",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864ee62459775490116fc1",
+        "handbookParentId": "5b47574386f77428ca22b2ed",
+        "handbookPriceRoubles": 4500000,
+        "fleaPriceRoubles": 4500000,
+        "locales": {
+            "en": {
+                "name": "TerraGroup Labs Emergency Power Cell",
+                "shortName": "PowerCell",
+                "description": "A lightweight high-capacity emergency power unit designed for TerraGroup Labs, capable of powering the entire facility for several days."
+            },
+            "fr": {
+                "name": "Cellule d’alimentation d’urgence TerraGroup Labs",
+                "shortName": "PowerCell",
+                "description": "Une unité d’alimentation d’urgence légère et haute capacité conçue pour TerraGroup Labs, capable d’alimenter toute l’installation pendant plusieurs jours."
+            },
+            "ch": {
+                "name": "TerraGroup实验室应急电池",
+                "shortName": "应急电池",
+                "description": "一款为TerraGroup实验室设计的轻量级高容量应急电源装置，可为整个设施提供数日的电力供应。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_power_cell.bundle",
+                "rcid": ""
+            },
+            "Weight": 24,
+            "Width": 3,
+            "Height": 4,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "spec_armorrep",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffab": {
+        "newId": "68c35c198b8b18c0c707ffab",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "5b47574386f77428ca22b2f1",
+        "handbookPriceRoubles": 8000000,
+        "fleaPriceRoubles": 8000000,
+        "locales": {
+            "en": {
+                "name": "Gold Deer Skull",
+                "shortName": "GoldDeer",
+                "description": "A heavy gold deer skull found at some sacrificial altars of a strange occult sect."
+            },
+            "fr": {
+                "name": "Crâne de cerf en or",
+                "shortName": "CerfOr",
+                "description": "Un lourd crâne de cerf en or trouvé sur certains autels sacrificiels d’une étrange secte occulte."
+            },
+            "ch": {
+                "name": "黄金鹿头骨",
+                "shortName": "金鹿",
+                "description": "一个沉重的黄金鹿头骨，发现于某些神秘邪教的祭坛上。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_gold_deer_skull.bundle",
+                "rcid": ""
+            },
+            "Weight": 7.8,
+            "Width": 3,
+            "Height": 4,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "generic",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffac": {
+        "newId": "68c35c198b8b18c0c707ffac",
+        "itemTplToClone": "59faf7ca86f7740dbe19f6c2",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "5b47574386f77428ca22b2f1",
+        "handbookPriceRoubles": 9800000,
+        "fleaPriceRoubles": 9800000,
+        "locales": {
+            "en": {
+                "name": "Gold Lion Figurine",
+                "shortName": "GoldLion",
+                "description": "A heavy gold lion figurine made with pure gold."
+            },
+            "fr": {
+                "name": "Figurine de lion en or",
+                "shortName": "LionOr",
+                "description": "Une lourde figurine de lion en or pur."
+            },
+            "ch": {
+                "name": "金狮雕像",
+                "shortName": "金狮",
+                "description": "一座沉重的纯金金狮雕像。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_gold_lion.bundle",
+                "rcid": ""
+            },
+            "Weight": 12.8,
+            "Width": 3,
+            "Height": 3,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "jewelry",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffad": {
+        "newId": "68c35c198b8b18c0c707ffad",
+        "itemTplToClone": "59e3647686f774176a362507",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "5b47574386f77428ca22b2f1",
+        "handbookPriceRoubles": 1680000,
+        "fleaPriceRoubles": 1680000,
+        "locales": {
+            "en": {
+                "name": "Antique Gramophone",
+                "shortName": "Gramophone",
+                "description": "An antique gramophone with a beautifully crafted golden horn."
+            },
+            "fr": {
+                "name": "Gramophone Antique",
+                "shortName": "Gramophone",
+                "description": "Un gramophone antique avec un cornet doré magnifiquement ouvragé."
+            },
+            "ch": {
+                "name": "古董留声机",
+                "shortName": "留声机",
+                "description": "一座古董留声机，配有精美打造的金色喇叭。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_gramophone.bundle",
+                "rcid": ""
+            },
+            "Weight": 3.5,
+            "Width": 2,
+            "Height": 2,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "generic",
+            "BackgroundColor": "red"
+        }
+    },
+    "68c35c198b8b18c0c707ffae": {
+        "newId": "68c35c198b8b18c0c707ffae",
+        "itemTplToClone": "59e3647686f774176a362507",
+        "parentId": "57864a3d24597754843f8721",
+        "handbookParentId": "5b47574386f77428ca22b2f1",
+        "handbookPriceRoubles": 1350000,
+        "fleaPriceRoubles": 1350000,
+        "locales": {
+            "en": {
+                "name": "Dragon Figurine",
+                "shortName": "WoodDragon",
+                "description": "A finely crafted wooden dragon figurine with a lifelike and majestic appearance."
+            },
+            "fr": {
+                "name": "Figurine de dragon",
+                "shortName": "DragonBois",
+                "description": "Une figurine de dragon en bois finement sculptée, à l'apparence réaliste et majestueuse."
+            },
+            "ch": {
+                "name": "龙形木雕",
+                "shortName": "木龙",
+                "description": "一件精雕细琢的木质龙形雕像，神态逼真，气势恢宏。"
+            }
+        },
+        "overrideProperties": {
+            "Prefab": {
+                "path": "TarkovCollectibles/tarkov_collectibles_wood_dragon.bundle",
+                "rcid": ""
+            },
+            "Weight": 2.8,
+            "Width": 2,
+            "Height": 2,
+            "CanSellOnRagfair": false,
+            "ExaminedByDefault": false,
+            "ExamineTime": 1,
+            "ExamineExperience": 100,
+            "LootExperience": 100,
+            "ItemSound": "generic",
+            "BackgroundColor": "red"
+        }
+    }
+}

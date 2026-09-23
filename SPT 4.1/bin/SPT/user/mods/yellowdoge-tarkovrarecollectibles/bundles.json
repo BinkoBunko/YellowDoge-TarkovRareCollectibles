@@ -1,0 +1,64 @@
+{
+    "manifest": [
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_diamond.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_gold_bar.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_gold_clock.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_gold_statue.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_weed.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_monalisa.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_flintlock.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_drone.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_missile.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_champagne.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_power_cell.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_gold_deer_skull.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_gold_lion.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_gramophone.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "TarkovCollectibles/tarkov_collectibles_wood_dragon.bundle",
+            "dependencyKeys": []
+        }
+    ]
+}
