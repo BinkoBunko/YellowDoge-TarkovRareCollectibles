@@ -17,7 +17,7 @@ namespace TarkovRareCollectibles
 {
     public record ModMetadata : IModMetadata
     {
-        public string ModGuid { get; init; } = "com.yellowdoge.tarkovrarecollectibles";
+        public string ModGuid { get; init; } = "com.binkobunko.tarkovrarecollectibles";
         public string Name { get; init; } = "TarkovRareCollectibles";
         public string Author { get; init; } = "YellowDoge";
         public bool HasPrepatcher { get; init; } = false;
