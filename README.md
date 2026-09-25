@@ -5,7 +5,7 @@ Inspired by other extraction shooters like Arena Breakout: Infinite and Delta Fo
 ---
 
 ## Installation
-
+- SPT-4.1: Extract SPT_Runtime/ folder to SPT root directory
 - SPT-4.0: Extract SPT/ folder to SPT root directory
 - SPT-3.11: Extract user/ folder to SPT root directory
 
@@ -16,6 +16,7 @@ Inspired by other extraction shooters like Arena Breakout: Infinite and Delta Fo
 ### Adjust Loot Spawn Modifier
 
 1. Find the config file:
+  - (SPT-4.1) Open SPT_Runtime/user/mods/yellowdoge-tarkovrarecollectibles/config/config.json
   - (SPT-4.0) Open SPT/user/mods/yellowdoge-tarkovrarecollectibles/config/config.json
   - (SPT-3.11) Open user/mods/yellowdoge-tarkovrarecollectibles/config/config.json
 
